@@ -1,0 +1,1902 @@
+{
+    "0193b25d-2ebe-78a9-21e9-b532d88f87a8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "0193b25d-2ee6-7a8e-10f3-461d6c1c07b1",
+            "0193b25d-2ef4-7298-1b25-8febdb5861ee",
+            "0193b25d-2ef4-7ea4-62ec-95aaaeb23da6",
+            "0193b25d-2ef4-78a7-610d-8c1a3d6c0259",
+            "0193b25d-2ef4-7a98-66aa-556a10614565",
+            "0193b25d-2ef4-7696-98e5-7ff9d7100cac",
+            "0193b25d-2ef4-73ad-25f1-c1a16a9d720c",
+            "0193b25d-2ef4-749e-b1f1-7f94ad865b06",
+            "0193b25d-2ef5-7f8c-730c-598e70016e92",
+            "0193b25d-2ef5-76a7-07ad-b4dc2b0a43f4",
+            "0193b25d-2ef5-7086-a894-ebab15901dc8",
+            "0193b25d-2ef5-71b6-18ca-82f4f118de34",
+            "0193b25d-2ef5-7397-11a4-ab897e3df23f",
+            "0193b25d-2ef5-76b4-1d73-3e6412b94ad3",
+            "0193b25d-2ef5-7fb0-5da2-63a3373cddaa",
+            "0193b25d-2ef5-79ad-ba1c-d68706b238d6",
+            "0193b25d-2ef5-73b7-ad07-cd7106bf3cb1",
+            "0193b25d-2ef5-72bb-002a-39a02608bfeb",
+            "0193b25d-2ef5-7db8-4585-879d412a8771",
+            "0193b25d-2ef6-70a3-21ab-90df14a599db",
+            "0193b25d-2ef6-7485-22b2-5b9f84fb06f1",
+            "0193b25d-2ef6-77ba-5e27-81ee18695732",
+            "0193b25d-2ef6-70b0-ce61-f756d3ed3025",
+            "0193b25d-2ef6-799d-9bfc-3ac6faed393b",
+            "0193b25d-2ef6-7984-82f6-40e66949c4b5",
+            "0193b25d-2ef6-748a-b1a3-01230e39ab84",
+            "0193b25d-2ef6-7fa6-92b4-7cc54222cd72",
+            "0193b25d-2ef6-7a8a-a269-b0712e6579b0",
+            "0193b25d-2ef6-7a82-9763-8378e8e2f86c",
+            "0193b25d-2ef6-7a98-8122-d3ebeba8dc40",
+            "0193b25d-2ef7-73ab-5c24-1d60dc5a69ed",
+            "0193b25d-2ef7-7e93-f0f6-ce70a2f74f00",
+            "0193b25d-2ef7-70b9-97ed-f6501733010a",
+            "0193b25d-2ef7-77b8-64f1-60a316a0bbb9",
+            "0193b25d-2ef7-7992-6ebe-00c292cb1737",
+            "0193b25d-2ef7-71a8-9b6d-82846c4140e5",
+            "0193b25d-2ef7-75a6-e938-34a134fae9f2",
+            "0193b25d-2ef7-7eaa-bc68-e8f62d2c27bc",
+            "0193b25d-2ef7-7593-09be-123b75025336",
+            "0193b25d-2ef7-7389-3671-540e3a0d1fba",
+            "0193b25d-2ef7-79b8-8fee-a96620b2187b",
+            "0193b25d-2ef7-79ac-16a2-e653780a67c5",
+            "0193b25d-2ef8-7aaa-b3f9-b23f7cb18855",
+            "0193b25d-2ef8-7680-df70-2aa0e97151cc",
+            "0193b25d-2ef8-76ad-09f9-515ba61da28a",
+            "0193b25d-2ef8-7585-0bfb-fb42c93e2918",
+            "0193b25d-2ef8-7982-8593-a3f6f63a613e",
+            "0193b25d-2ef8-70b1-83d0-5071876abf0f",
+            "0193b25d-2ef8-78a3-3f94-8c3001457ab5",
+            "0193b25d-2ef8-759e-9891-26f96d617328",
+            "0193b25d-2ef8-7283-97de-83d369b6065e",
+            "0193b25d-2ef8-7893-f83a-b12973cb2617",
+            "0193b25d-2ef9-7fb7-9050-f5115dc167bd",
+            "0193b25d-2ef9-759c-ed1a-b3b48995cb2d",
+            "0193b25d-2ef9-73bf-375c-9f94ade7c53f",
+            "0193b25d-2ef9-7ca5-3686-fdc2f5fae210",
+            "0193b25d-2ef9-75b9-4b34-66260f8e1843",
+            "0193b25d-2ef9-7882-d28a-489a0fc0d7f7",
+            "0193b25d-2ef9-7f9e-c323-6e334e232332",
+            "0193b25d-2ef9-7696-55cc-ab764b464377",
+            "0193b25d-2ef9-75ae-1658-f66a3804fae4",
+            "0193b25d-2efa-72ba-4601-52308966a360",
+            "0193b25d-2efa-76af-2a5d-0542406c8dac",
+            "0193b25d-2efa-7aa4-eae4-18838e93cf67",
+            "0193b25d-2efa-7683-a9fa-391a8908b937",
+            "0193b25d-2efa-7a98-541b-dad6259d6acf",
+            "0193b25d-2efa-768b-2621-b92cef797d28",
+            "0193b25d-2efa-72be-bbdb-b8a5c54cce8f",
+            "0193b25d-2efa-7481-5257-ab247a13ccf5",
+            "0193b25d-2efa-7cbf-6176-a8a1397047d9"
+        ]
+    },
+    "0193b25d-2ee6-78a1-a9d2-334bf2c79ca8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Arch.mesh.nasset/Arch Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ee6-7a8e-10f3-461d6c1c07b1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Arch.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ee6-78a1-a9d2-334bf2c79ca8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Halloween Bits.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "0193b25d-2ef4-79a6-c43a-b92f0f3aee4c"
+        ]
+    },
+    "0193b25d-2ef4-70ae-62f4-df60a77d83ca": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Bone B.mesh.nasset/Bone B Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-7298-1b25-8febdb5861ee": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Arch Gate Left.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef4-77b1-c8dc-78a045ff2f8a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-73ad-25f1-c1a16a9d720c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Bone A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef4-7dbf-0952-6e673113657f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-749e-b1f1-7f94ad865b06": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Bone B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef4-70ae-62f4-df60a77d83ca",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-75b4-6874-505b7e2d9443": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Bench Decorated.mesh.nasset/Bench Decorated Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-768e-90fd-7046af56bca3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Arch Gate Right.mesh.nasset/Arch Gate Right Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-7692-ca2c-1fd16bbd8266": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Bench.mesh.nasset/Bench Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-7696-98e5-7ff9d7100cac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Bench Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef4-75b4-6874-505b7e2d9443",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-77b1-c8dc-78a045ff2f8a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Arch Gate Left.mesh.nasset/Arch Gate Left Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-78a7-610d-8c1a3d6c0259": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Arch Gate.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef4-7e88-7842-24ae66734a44",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-79a6-c43a-b92f0f3aee4c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/Textures/T_Halloween_Bits_D.tex.nasset"
+    },
+    "0193b25d-2ef4-7a98-66aa-556a10614565": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Bench.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef4-7692-ca2c-1fd16bbd8266",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-7dbf-0952-6e673113657f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Bone A.mesh.nasset/Bone A Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-7e88-7842-24ae66734a44": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Arch Gate.mesh.nasset/Arch Gate Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef4-7ea4-62ec-95aaaeb23da6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Arch Gate Right.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef4-768e-90fd-7046af56bca3",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7086-a894-ebab15901dc8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Candle Melted.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-7ab1-5e76-3c45035d4f8c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-70a3-e38f-cddf118ee9d4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Coffin.mesh.nasset/Coffin Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-71b6-18ca-82f4f118de34": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Candle Thin.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-7f92-38a6-7da6a8fbec20",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-72bb-002a-39a02608bfeb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-7dbc-a75a-08ea9b59e50f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7397-11a4-ab897e3df23f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Candle Triple.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-78bf-6339-ed04f4d5ff06",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-73b6-215d-d252ce6ca554": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Crypt.mesh.nasset/Crypt Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-73b7-ad07-cd7106bf3cb1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Crypt.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-73b6-215d-d252ce6ca554",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7595-9fda-e41c5e28c3cd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Bone C.mesh.nasset/Bone C Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-76a7-07ad-b4dc2b0a43f4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Candle.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-7a91-f82a-397ab9f93113",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-76b4-1d73-3e6412b94ad3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Coffin Lid.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-7d96-0e78-f09959cab8d5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-78bf-6339-ed04f4d5ff06": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Candle Triple.mesh.nasset/Candle Triple Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-79ad-ba1c-d68706b238d6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Coffin Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-7ebc-500f-74aac2f8397e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7a91-f82a-397ab9f93113": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Candle.mesh.nasset/Candle Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7ab1-5e76-3c45035d4f8c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Candle Melted.mesh.nasset/Candle Melted Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7d87-338e-f8018a1f48af": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Broken.mesh.nasset/Fence Broken Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7d96-0e78-f09959cab8d5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Coffin Lid.mesh.nasset/Coffin Lid Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7db8-4585-879d412a8771": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Broken.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-7d87-338e-f8018a1f48af",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7dbc-a75a-08ea9b59e50f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence.mesh.nasset/Fence Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7ebc-500f-74aac2f8397e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Coffin Decorated.mesh.nasset/Coffin Decorated Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7f8c-730c-598e70016e92": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Bone C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-7595-9fda-e41c5e28c3cd",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7f92-38a6-7da6a8fbec20": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Candle Thin.mesh.nasset/Candle Thin Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef5-7fb0-5da2-63a3373cddaa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Coffin.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef5-70a3-e38f-cddf118ee9d4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-70a3-21ab-90df14a599db": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Gate Left.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-7e81-43a4-ec006e4843ce",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-70b0-ce61-f756d3ed3025": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Pillar.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-78b0-e8f9-25c1f7c0ba31",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7485-22b2-5b9f84fb06f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Gate Right.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-76b3-a25f-7e0a3521aca0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-748a-b1a3-01230e39ab84": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Seperate Broken.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-7bbb-befb-599bb72f26a0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-75a8-ae37-433bcf02aacd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Gate.mesh.nasset/Fence Gate Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7681-0549-6cb16b2f3efb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Grave A.mesh.nasset/Grave A Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-76b3-a25f-7e0a3521aca0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Gate Right.mesh.nasset/Fence Gate Right Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-77ba-5e27-81ee18695732": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Gate.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-75a8-ae37-433bcf02aacd",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-78b0-e8f9-25c1f7c0ba31": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Pillar.mesh.nasset/Fence Pillar Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-78b4-0fdc-5ca2fd2d113b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Floor Dirt.mesh.nasset/Floor Dirt Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7984-82f6-40e66949c4b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Seperate.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-7cbc-e750-d4c54a4adf2d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-799d-9bfc-3ac6faed393b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Pillar Broken.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-7c97-a8f6-d39dc140d1f3",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7a82-9763-8378e8e2f86c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Floor Dirt Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-7b85-2e30-efaa90bf9b77",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7a8a-a269-b0712e6579b0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Floor Dirt Grave.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-7cad-f6a4-e01e6b0e79ff",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7a98-8122-d3ebeba8dc40": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Grave A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-7681-0549-6cb16b2f3efb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7b85-2e30-efaa90bf9b77": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Floor Dirt Small.mesh.nasset/Floor Dirt Small Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7bbb-befb-599bb72f26a0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Seperate Broken.mesh.nasset/Fence Seperate Broken Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7c97-a8f6-d39dc140d1f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Pillar Broken.mesh.nasset/Fence Pillar Broken Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7cad-f6a4-e01e6b0e79ff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Floor Dirt Grave.mesh.nasset/Floor Dirt Grave Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7cbc-e750-d4c54a4adf2d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Seperate.mesh.nasset/Fence Seperate Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7e81-43a4-ec006e4843ce": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Fence Gate Left.mesh.nasset/Fence Gate Left Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef6-7fa6-92b4-7cc54222cd72": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Floor Dirt.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef6-78b4-0fdc-5ca2fd2d113b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-70b9-97ed-f6501733010a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Gravemarker A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-7e90-bb74-06edbb90c173",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-71a8-9b6d-82846c4140e5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Lantern Hanging.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-74ae-8742-465697d6918b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-71b3-ad13-5392a9a0b717": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Gravestone.mesh.nasset/Gravestone Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7389-3671-540e3a0d1fba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Path C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-7e92-fa19-d2df0b26d860",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-73ab-5c24-1d60dc5a69ed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Grave A Destroyed.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-7493-761b-0b566d9fe39d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7493-761b-0b566d9fe39d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Grave A Destroyed.mesh.nasset/Grave A Destroyed Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-74ac-fc35-34eec6ddfceb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Path D.mesh.nasset/Path D Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-74ae-8742-465697d6918b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Lantern Hanging.mesh.nasset/Lantern Hanging Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7580-d85b-07453e58e0f2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Gravemarker B.mesh.nasset/Gravemarker B Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7593-09be-123b75025336": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Path B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-77ae-ec43-2a7e780ffdfb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-75a6-e938-34a134fae9f2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Lantern Standing.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-7790-a88b-c22073451162",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7783-083e-019c410121ac": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pillar.mesh.nasset/Pillar Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7790-a88b-c22073451162": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Lantern Standing.mesh.nasset/Lantern Standing Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-77ae-ec43-2a7e780ffdfb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Path B.mesh.nasset/Path B Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-77b8-64f1-60a316a0bbb9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Gravemarker B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-7580-d85b-07453e58e0f2",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7992-6ebe-00c292cb1737": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Gravestone.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-71b3-ad13-5392a9a0b717",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-79ac-16a2-e653780a67c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pillar.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-7783-083e-019c410121ac",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-79b8-8fee-a96620b2187b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Path D.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-74ac-fc35-34eec6ddfceb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7aa0-2c84-ae40bcd57eaf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Path A.mesh.nasset/Path A Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7baa-9866-15a411a0c974": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Grave B.mesh.nasset/Grave B Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7e90-bb74-06edbb90c173": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Gravemarker A.mesh.nasset/Gravemarker A Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7e92-fa19-d2df0b26d860": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Path C.mesh.nasset/Path C Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7e93-f0f6-ce70a2f74f00": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Grave B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-7baa-9866-15a411a0c974",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef7-7eaa-bc68-e8f62d2c27bc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Path A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef7-7aa0-2c84-ae40bcd57eaf",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-70b1-83d0-5071876abf0f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Post Skull Skull.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef8-7ba5-e9a3-8682c56fc89e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-719a-63b5-4478402f1654": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Plaque Candles.mesh.nasset/Plaque Candles Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-71a0-63d2-d0149be2f940": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Orange Jackolantern.mesh.nasset/Pumpkin Orange Jackolantern Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-7283-97de-83d369b6065e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Orange Jackolantern.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef8-71a0-63d2-d0149be2f940",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-73bf-31c0-2f95d3a2ceee": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Post Skull.mesh.nasset/Post Skull Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-748e-d2ea-38fb6d45be2e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Post Lantern.mesh.nasset/Post Lantern Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-7585-0bfb-fb42c93e2918": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Post Lantern Lantern.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef8-7db9-6c18-eaeebc2d90dd",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-759b-b3db-3f84977c8c8d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Plaque.mesh.nasset/Plaque Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-759e-9891-26f96d617328": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Orange.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef8-7bb9-b306-66b5fab000bb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-7680-df70-2aa0e97151cc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Plaque Candles.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef8-719a-63b5-4478402f1654",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-76ad-09f9-515ba61da28a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Post.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef8-79ae-743d-44744fa03a91",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-7795-0466-bd9a4ba973f6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Orange Small.mesh.nasset/Pumpkin Orange Small Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-7893-f83a-b12973cb2617": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Orange Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef8-7795-0466-bd9a4ba973f6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-78a3-3f94-8c3001457ab5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Post Skull.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef8-73bf-31c0-2f95d3a2ceee",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-7982-8593-a3f6f63a613e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Post Lantern.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef8-748e-d2ea-38fb6d45be2e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-79ae-743d-44744fa03a91": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Post.mesh.nasset/Post Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-7aaa-b3f9-b23f7cb18855": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Plaque.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef8-759b-b3db-3f84977c8c8d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-7ba5-e9a3-8682c56fc89e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Post Skull Skull.mesh.nasset/Post Skull Skull Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-7bb9-b306-66b5fab000bb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Orange.mesh.nasset/Pumpkin Orange Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef8-7db9-6c18-eaeebc2d90dd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Post Lantern Lantern.mesh.nasset/Post Lantern Lantern Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7088-c851-b9120c420590": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Shrine.mesh.nasset/Shrine Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-70aa-5459-cd03d5b83e20": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Skull.mesh.nasset/Skull Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-73bf-375c-9f94ade7c53f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Yellow Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef9-7da8-dc4e-8820b2fd046a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-759c-841d-87bb6a39308a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Dead Large.mesh.nasset/Tree Dead Large Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-759c-ed1a-b3b48995cb2d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Yellow Jackolantern.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef9-7f83-3516-0b8385559c8f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-75ae-1658-f66a3804fae4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Dead Large.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef9-759c-841d-87bb6a39308a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-75b9-4b34-66260f8e1843": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Shrine.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef9-7088-c851-b9120c420590",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-75b9-9e11-2543d883afc8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Ribcage.mesh.nasset/Ribcage Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7696-55cc-ab764b464377": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Skull Candle.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef9-7f93-ad12-9e7b684bea87",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7882-d28a-489a0fc0d7f7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Shrine Candles.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef9-7c82-2f5d-52b24ea753a6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7992-b1cf-7989d9fd9e17": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Yellow.mesh.nasset/Pumpkin Yellow Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7c82-2f5d-52b24ea753a6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Shrine Candles.mesh.nasset/Shrine Candles Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7ca5-3686-fdc2f5fae210": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Ribcage.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef9-75b9-9e11-2543d883afc8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7da8-dc4e-8820b2fd046a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Yellow Small.mesh.nasset/Pumpkin Yellow Small Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7f83-3516-0b8385559c8f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Yellow Jackolantern.mesh.nasset/Pumpkin Yellow Jackolantern Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7f93-ad12-9e7b684bea87": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Skull Candle.mesh.nasset/Skull Candle Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7f9e-c323-6e334e232332": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Skull.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef9-70aa-5459-cd03d5b83e20",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2ef9-7fb7-9050-f5115dc167bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Pumpkin Yellow.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2ef9-7992-b1cf-7989d9fd9e17",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-71af-f5f4-37b5e00fd8ca": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Orange Medium.mesh.nasset/Tree Pine Orange Medium Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-72ba-4601-52308966a360": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Dead Large Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2efa-7f8a-0096-5a644f84133d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-72be-bbdb-b8a5c54cce8f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Yellow Large.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2efa-77a4-0975-cd628502f786",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-7481-5257-ab247a13ccf5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Yellow Medium.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2efa-7ba4-eb15-d63bcf3541cb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-749a-6c50-fef9251de3e6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Yellow Small.mesh.nasset/Tree Pine Yellow Small Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-74b1-f1f0-d38739336097": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Orange Small.mesh.nasset/Tree Pine Orange Small Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-7683-a9fa-391a8908b937": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Orange Large.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2efa-7799-fa14-69090a54ada1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-768b-2621-b92cef797d28": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Orange Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2efa-74b1-f1f0-d38739336097",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-768d-bd43-67af0aae6814": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Dead Small.mesh.nasset/Tree Dead Small Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-76af-2a5d-0542406c8dac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Dead Medium.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2efa-7b95-eb3b-ec750a95de08",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-7799-fa14-69090a54ada1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Orange Large.mesh.nasset/Tree Pine Orange Large Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-77a4-0975-cd628502f786": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Yellow Large.mesh.nasset/Tree Pine Yellow Large Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-7a98-541b-dad6259d6acf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Orange Medium.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2efa-71af-f5f4-37b5e00fd8ca",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-7aa4-eae4-18838e93cf67": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Dead Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2efa-768d-bd43-67af0aae6814",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-7b95-eb3b-ec750a95de08": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Dead Medium.mesh.nasset/Tree Dead Medium Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-7ba4-eb15-d63bcf3541cb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Yellow Medium.mesh.nasset/Tree Pine Yellow Medium Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-7cbf-6176-a8a1397047d9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Pine Yellow Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "0193b25d-2efa-749a-6c50-fef9251de3e6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b25d-2efa-7f8a-0096-5a644f84133d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Halloween_Bits.scene.nasset/Tree Dead Large Decorated.mesh.nasset/Tree Dead Large Decorated Halloween Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b25d-2ee6-7aa5-11f9-5acf850c9c0b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193dbcf-4e16-7395-18b8-b929792a3091": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Spooktober_Thumb.tex.nasset"
+    },
+    "0193dbcf-4fd0-7a93-9cce-383f8205e4b1": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "18b31c45-5216-430d-a767-014d41888643": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Spooktober.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":2048.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[5.4105,-3.0759,3.5692],\"rotation\":[-30.0674,-0.0,53.0321]}"
+        }
+    },
+    "30e3ef89-52b5-44d7-81c6-72b9b572d018": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Spooktober",
+        "thumbnail": "0193dbcf-4e16-7395-18b8-b929792a3091",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "3f1079ea-bfa0-45dc-9a55-906e415618f7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Player_Scripts/Witch.scene.nasset",
+        "thumbnail": "3ef9eede-047b-44a5-999f-8bbf06ad9921",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+        ]
+    },
+    "8c77be4e-1e2b-4922-a7ae-0e6f5d9cbc16": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Thumbnails/Witch.scene.nasset.tex.nasset"
+    },
+    "a96d43ba-d66a-4dde-a308-c030ca1378bb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Thumbnails/Jack.scene.nasset.tex.nasset"
+    },
+    "ce5c20a7-7574-4a7d-a3ef-26c9142cfe75": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Player_Scripts/Jack.scene.nasset",
+        "thumbnail": "3ef9eede-047b-44a5-999f-8bbf06ad9921",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+        ]
+    },
+    "guid": "0193dbcf-4fd0-7a93-9cce-383f8205e4b1"
+}
