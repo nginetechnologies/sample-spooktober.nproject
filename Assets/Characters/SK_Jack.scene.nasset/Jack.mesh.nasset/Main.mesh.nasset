@@ -1,0 +1,127 @@
+{
+    "guid": "01942580-5236-7081-a7b0-a35ed77cfd27",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "01942580-5236-7083-1440-444c9045ec2f",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "01942580-5236-70a7-3416-9091c6ebd3ea",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Jack Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "01942580-5237-7a85-1d77-92a9bf6b55e7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942580-5237-7c83-7478-f0d8c46b155d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Jack Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942580-5236-748b-4a65-976a2b95aa31",
+                                "material_instance": "01942580-5236-76a1-a5bf-58a308fa64e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942580-5237-759a-49f2-c44b225710da"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942580-5237-77b9-f25d-f76a24a6d55b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Jack Brown Dark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942580-5237-7da0-84ee-873a7f252fb5",
+                                "material_instance": "01942580-5237-77af-ff6a-14c1088df4fb"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942580-5237-71a0-25cf-532829119fa4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942580-5237-77b2-2f42-a8541cc04ab6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Jack Orange"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942580-5237-7f85-99c7-231df0ed1e09",
+                                "material_instance": "01942580-5237-7ab5-b6d2-321f31fba44b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942580-5237-70a3-cf4d-05cccb372f1e"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "01942580-5237-70b2-1411-d116ad8a8e62"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "01942580-5236-7081-a7b0-a35ed77cfd27"
+    },
+    "dependencies": [
+        "01942580-5236-76a1-a5bf-58a308fa64e7",
+        "01942580-5236-748b-4a65-976a2b95aa31",
+        "01942580-5237-759a-49f2-c44b225710da",
+        "01942580-5237-77af-ff6a-14c1088df4fb",
+        "01942580-5237-7da0-84ee-873a7f252fb5",
+        "01942580-5237-71a0-25cf-532829119fa4",
+        "01942580-5237-7ab5-b6d2-321f31fba44b",
+        "01942580-5237-7f85-99c7-231df0ed1e09",
+        "01942580-5237-70a3-cf4d-05cccb372f1e",
+        "01942580-5237-70b2-1411-d116ad8a8e62"
+    ]
+}

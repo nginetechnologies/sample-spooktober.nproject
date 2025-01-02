@@ -153,8 +153,8 @@
             },
             "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
                 "radius": 40,
-                "irradiance": "0193b969-bd4f-7aac-fa6e-3a2d46b05c6b",
-                "prefiltered": "0193b969-c005-7188-0114-6600672b15c3"
+                "irradiance": "0194258d-d2a0-76b5-6d98-0a9630d36dff",
+                "prefiltered": "0194258d-d2dd-74be-66a9-7c734539a7f0"
             },
             "data_components": [
                 {
@@ -183,7 +183,7 @@
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                 "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
-                "material_instance": "4a9bd1ca-0b9d-4f5e-ae58-0ecbbe0af249"
+                "material_instance": "4dc507bc-1e22-43a6-a210-bdabdcafa840"
             },
             "data_components": [
                 {

@@ -1,0 +1,179 @@
+{
+    "guid": "01942580-729a-788c-19d2-87ee9cba5a85",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "01942580-729a-73ad-59e9-a8db52c5d86b",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "01942580-729a-76aa-b91b-9926c5be9815",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Witch Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "01942580-729b-73b6-e4bf-2f490ca691ae",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942580-729b-7fa9-bf7b-fdaf97cee9be",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Witch Purple"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942580-729a-79bd-bd16-38f31ef9795d",
+                                "material_instance": "01942580-729b-7abb-263c-cc0df7bb9df0"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942580-729b-75bd-281a-3a35bff65aed"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942580-729b-7398-19f4-db6ff816a4ea",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Witch Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942580-729b-709f-154a-29f744c3c097",
+                                "material_instance": "01942580-5236-76a1-a5bf-58a308fa64e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942580-729b-7b82-38fc-55b30fb1806a"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942580-729b-73a9-3a4f-861db1a67dc9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Witch Yellow"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942580-729b-73ab-6db4-803fcedfd379",
+                                "material_instance": "01942580-729b-75bc-5a60-3b12ba6b6936"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942580-729b-7da2-d276-4a3de1561a44"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942580-729b-73ae-0b7d-d17c5fe9e7b4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Witch Green Light"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942580-729b-72a1-400f-2d9a14293a8e",
+                                "material_instance": "01942580-729b-7e92-eb4f-5b73823172bb"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942580-729b-70ae-474c-3409b5933dea"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942580-729b-708f-8a0d-f5156f86c83f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Witch Green"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942580-729b-768f-06bd-aaadf5199797",
+                                "material_instance": "01942580-729b-7ebb-328c-af377db59546"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942580-729b-7883-eeb8-cd5db85d0d27"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "01942580-5237-70b2-1411-d116ad8a8e62"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "01942580-729a-788c-19d2-87ee9cba5a85"
+    },
+    "dependencies": [
+        "01942580-729b-7abb-263c-cc0df7bb9df0",
+        "01942580-729a-79bd-bd16-38f31ef9795d",
+        "01942580-729b-75bd-281a-3a35bff65aed",
+        "01942580-5236-76a1-a5bf-58a308fa64e7",
+        "01942580-729b-709f-154a-29f744c3c097",
+        "01942580-729b-7b82-38fc-55b30fb1806a",
+        "01942580-729b-75bc-5a60-3b12ba6b6936",
+        "01942580-729b-73ab-6db4-803fcedfd379",
+        "01942580-729b-7da2-d276-4a3de1561a44",
+        "01942580-729b-7e92-eb4f-5b73823172bb",
+        "01942580-729b-72a1-400f-2d9a14293a8e",
+        "01942580-729b-70ae-474c-3409b5933dea",
+        "01942580-729b-7ebb-328c-af377db59546",
+        "01942580-729b-768f-06bd-aaadf5199797",
+        "01942580-729b-7883-eeb8-cd5db85d0d27",
+        "01942580-5237-70b2-1411-d116ad8a8e62"
+    ]
+}
