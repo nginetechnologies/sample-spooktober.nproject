@@ -29,6 +29,19 @@
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "8325bf22-93be-412e-851c-fadaf0cd2c2a",
+                                "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8",
+                                "1a35537c-bf4e-45e4-a52a-585c5cee7990"
+                            ],
+                            "jump_animations": [
+                                "9a82901c-b63f-4688-9e9f-f2c99bb878d0",
+                                "da6963f7-0ef1-45f0-8b7f-b031989b09c0",
+                                "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb"
+                            ]
                         }
                     ],
                     "children": [
@@ -122,6 +135,12 @@
         "01942580-5237-7ab5-b6d2-321f31fba44b",
         "01942580-5237-7f85-99c7-231df0ed1e09",
         "01942580-5237-70a3-cf4d-05cccb372f1e",
-        "01942580-5237-70b2-1411-d116ad8a8e62"
+        "01942580-5237-70b2-1411-d116ad8a8e62",
+        "8325bf22-93be-412e-851c-fadaf0cd2c2a",
+        "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8",
+        "1a35537c-bf4e-45e4-a52a-585c5cee7990",
+        "9a82901c-b63f-4688-9e9f-f2c99bb878d0",
+        "da6963f7-0ef1-45f0-8b7f-b031989b09c0",
+        "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb"
     ]
 }
